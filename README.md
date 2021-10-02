@@ -1,4 +1,3 @@
-<h2>Merge Sort</h2>
 <h3>How this sorting algorithm works?</h3>
 <p>
 This algorithm uses divide and conquer approach. 
